@@ -10,7 +10,7 @@ body {
 }
 
 /* Main container */
-.stoplight {
+.container {
   width: 260px;
   height: 140px;
   background: #dcdcdc;
@@ -32,9 +32,9 @@ body {
 
 /* Specific colors */
 .green  {
-	background: #0a9d2b; 
+	background: green; 
 }
 .yellow { 
-	background: #ffd600;
+	background: yellow;
 }
-.red    { background: #e01919; }
+.red    { background: red; }
