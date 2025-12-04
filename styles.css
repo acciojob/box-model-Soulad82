@@ -31,6 +31,10 @@ body {
 }
 
 /* Specific colors */
-.green  { background: #0a9d2b; }
-.yellow { background: #ffd600; }
+.green  {
+	background: #0a9d2b; 
+}
+.yellow { 
+	background: #ffd600;
+}
 .red    { background: #e01919; }
